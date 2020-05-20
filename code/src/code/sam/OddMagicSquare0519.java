@@ -3,7 +3,7 @@ package code.sam;
 
 import java.util.Scanner;
 
-public class OddMagicSquare {
+public class OddMagicSquare0519 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("È¦¼ö ÀÔ·Â");
