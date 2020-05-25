@@ -9,7 +9,7 @@ public class Amicables0525 {
 		
 		int a = sc.nextInt();	//입력하는 값
 		int b = sc.nextInt();	
-		int c = 0;
+		
 		
 		int na;					//나누는 값
 		int nb;					
