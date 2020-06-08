@@ -33,7 +33,7 @@ public class QuickSort {
 		return arr;
 		
 	}
-	public static void main(String[] args) {
+	public static void main(String[] args) {												
 		int arr[] = {67,700,735,287,830,360,753,332,899,616,990,890,933,975,275
 			    ,707,271,80,409,602,875,813,208,949,183,504,721,494,159,549,
 			    95,818,85,444,703,961,928,193,846,660,433,253,547,436,467,751,
